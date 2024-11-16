@@ -7,7 +7,7 @@ int main(int argc, char* argv[])
 		//判定処理をここに書いてください
 		if (i % 15 == 0) {
 			std::cout << "hogepiyo" << std::endl;
-		 }
+		}
 		else if (i % 5 == 0) {
 			std::cout << "piyo" << std::endl;
 		}
